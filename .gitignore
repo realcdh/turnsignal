@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!requirements.txt
+!bytetrack_custom.yaml
+!*.py
+!실행_mac.command
+!실행_windows.bat
+!aihub/
+!aihub/untar_stream.py
