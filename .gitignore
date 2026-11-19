@@ -8,3 +8,7 @@
 !실행_windows.bat
 !aihub/
 !aihub/untar_stream.py
+
+# 공무원용 검토 대시보드 (Vite + FastAPI)
+!review-app/
+!review-app/**

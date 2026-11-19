@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+# 실제 분석 엔진(turnsignal_app.py)을 쓸 때는 해당 레포의 requirements.txt 도 설치
+# (ultralytics, torch, opencv-python, pandas ...)
